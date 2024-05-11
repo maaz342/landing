@@ -1,0 +1,28 @@
+.bg{
+    background-color:#1f3a4d;
+  }
+  .arow{
+    rotate: 45deg;
+  }
+  .arrow{
+    margin-top: 8px;
+  }
+  .arrow a{
+    text-decoration: none;
+    color: white;
+  }
+  .arrow a:hover{
+    color: #0e75ca;
+  }
+  .subinpt input{
+    background: none;
+    border: none;
+    outline: none;
+    color: white;
+  }
+  .subinpt button{
+    outline: none;
+  }
+  .fot:hover{
+    color: #156bb1;
+  }
